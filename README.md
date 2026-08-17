@@ -18,12 +18,9 @@ NexusRAG is a production-grade, multi-agent AI system designed to handle complex
 
 ### Agent Routing in Action
 ![Routing Screenshot](ScreenShots/AskingQuestion1.png)
-
-### Critic Node / Hallucination Audit
-![Critic Node Screenshot](assets/screenshot-critic.png)
-
-### API Docs (Swagger UI)
-![API Docs Screenshot](assets/screenshot-api-docs.png)
+![Routing Screenshot](ScreenShots/AskingQuestion2.png)
+![Routing Screenshot](ScreenShots/SolustionAnswer.png)
+![Routing Screenshot](ScreenShots/FullBothQuestionAndSolution.png)
 
 <!-- To add more screenshots, just copy a block above and rename the file. -->
 
