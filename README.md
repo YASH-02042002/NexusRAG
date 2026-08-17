@@ -14,10 +14,10 @@ NexusRAG is a production-grade, multi-agent AI system designed to handle complex
 <!-- Example: create a folder named "assets" or "screenshots" in your repo root and place images there. -->
 
 ### Dashboard / Home View
-![Dashboard Screenshot](assets/screenshot-dashboard.png)
+![Dashboard Screenshot](ScreenShots/HomePage.png)
 
 ### Agent Routing in Action
-![Routing Screenshot](assets/screenshot-routing.png)
+![Routing Screenshot](ScreenShots/AskingQuestion1.png)
 
 ### Critic Node / Hallucination Audit
 ![Critic Node Screenshot](assets/screenshot-critic.png)
